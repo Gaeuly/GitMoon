@@ -3,13 +3,13 @@ import { ChevronDown } from 'lucide-react';
 
 const faqData = [
     {
-        question: "Is GitMoon secure? Where are my tokens stored?",
-        answer: "Yes! GitMoon is completely secure. All operations run on your local machine (client-side). Your GitHub and Gemini API keys are stored only in your browser's localStorage and are never sent to any server.",
+        question: "Is GitVeilcy secure? Where are my tokens stored?",
+        answer: "Yes! GitVeilcy is completely secure. All operations run on your local machine (client-side). Your GitHub and Gemini API keys are stored only in your browser's localStorage and are never sent to any server.",
         color: "bg-pink-300",
     },
     {
-        question: "What are the main features of GitMoon?",
-        answer: "GitMoon allows you to commit & push files, automatically generate README.md files using AI, manage repositories, and even delete files or folders directly from a mobile-friendly web interface.",
+        question: "What are the main features of GitVeilcy?",
+        answer: "GitVeilcy allows you to commit & push files, automatically generate README.md files using AI, manage repositories, and even delete files or folders directly from a mobile-friendly web interface.",
         color: "bg-orange-300",
     },
     {

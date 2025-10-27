@@ -17,7 +17,7 @@ export default function Feature() {
     {
       icon: Package,
       title: 'Upload ZIP → Extract & Commit',
-      description: 'Simply upload a .zip file and GitMoon automatically extracts and commits it to your GitHub repository.',
+      description: 'Simply upload a .zip file and GitVeilcy automatically extracts and commits it to your GitHub repository.',
       colorClass: 'bg-sky-300',
     },
     {

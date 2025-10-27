@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="container mx-auto px-6 py-6 max-w-7xl">
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-gray-500 text-sm text-center md:text-left">
-            © {new Date().getFullYear()} GitMoon. All Rights Reserved.
+            © {new Date().getFullYear()} GitVeilcy. All Rights Reserved.
           </p>
 
           <div className="flex items-center gap-6">

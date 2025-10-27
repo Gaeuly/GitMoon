@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['KGCorneroftheSky', 'sans-serif'],
+        sans: ['RobotoMono', 'sans-serif'],
       },
     },
   },

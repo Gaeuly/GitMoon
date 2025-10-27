@@ -4,8 +4,8 @@
 
 @layer base {
   @font-face {
-    font-family: 'KGCorneroftheSky';
-    src: url('/fonts/KGCorneroftheSky.ttf') format('truetype');
+    font-family: 'RobotoMono';
+    src: url('/fonts/RobotoMono-VariableFont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
   }

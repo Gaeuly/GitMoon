@@ -14,7 +14,7 @@ const GuideItem = ({ icon: Icon, title, children }) => (
 export const GuideSection = () => {
   return (
     <OffsetShadowCard color="purple" className="bg-purple-200">
-      <h2 className="text-2xl font-bold mb-6 text-center text-gray-800">How to Use GitMoon</h2>
+      <h2 className="text-2xl font-bold mb-6 text-center text-gray-800">How to Use GitVeilcy</h2>
       <div className="space-y-6">
         <GuideItem icon={Shield} title="Your Keys, Your Security">
           Your GitHub and Gemini keys are safe. They are only stored in your browser (client-side) and never sent to our servers. Your privacy is our priority.

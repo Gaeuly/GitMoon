@@ -5,7 +5,7 @@ const reviews = [
         name: 'Devina R.',
         handle: '@devina_ux',
         avatar: 'https://placehold.co/100x100/f472b6/111827?text=DR',
-        body: 'GitMoon is a lifesaver! The README generator saved me hours of tedious work. The UI is clean and super intuitive.',
+        body: 'GitVeilcy is a lifesaver! The README generator saved me hours of tedious work. The UI is clean and super intuitive.',
         color: 'bg-pink-300'
     },
     {
@@ -102,7 +102,7 @@ export default function Reviews() {
                         Loved by Developers
                     </h2>
                     <p className="text-lg lg:text-xl text-gray-600 max-w-3xl leading-relaxed text-left">
-                        See what developers are saying about their experience with GitMoon.
+                        See what developers are saying about their experience with GitVeilcy.
                     </p>
                 </div>
 

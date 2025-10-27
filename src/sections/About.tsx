@@ -39,10 +39,10 @@ export default function About() {
       <div className="container mx-auto px-6 max-w-6xl">
         <div className="mb-12 lg:mb-16 text-left">
           <h2 className="text-4xl sm:text-5xl font-bold mb-4 text-gray-800">
-            Why GitMoon?
+            Why GitVeilcy?
           </h2>
           <p className="text-lg lg:text-xl text-gray-600 max-w-3xl leading-relaxed">
-            GitMoon runs fully client-side, using your GitHub Token and Gemini API Key safely. We prioritize your privacy and simplicity, making Git operations accessible for developers anywhere, anytime.
+            GitVeilcy runs fully client-side, using your GitHub Token and Gemini API Key safely. We prioritize your privacy and simplicity, making Git operations accessible for developers anywhere, anytime.
           </p>
         </div>
 
